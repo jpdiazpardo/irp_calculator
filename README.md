@@ -3,4 +3,4 @@ In Colombia the price of high cost drugs is regulated using International Refere
 
 **NOTE:** The sources are publicly available and included: NOMA, RAMQ, eMIT, NHS, FSS, DIMDI, CONSEJO NACIONAL DE PRECIOS DEL ECUADOR, COMPRAS PÚBLICAS DEL ECUADOR, ANVISA, PETRONE, PBS, DIGEMID, INFARMED, NICE, PANAMA COMPRA, CHILE COMPRA, IMSS, ANMAT, AMELI and BPS.
 
-![Alt text](Methodology and parameters/Janssen.png?raw=true)
+![Alt text](Methodology%20and%20parameters/Janssen.png?raw=true)
